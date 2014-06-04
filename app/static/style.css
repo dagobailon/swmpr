@@ -4,13 +4,21 @@ h1 {
 
 }
 
+body {
+	background: grey;
+}
 #about {
+
 	font-size: 25px;
 	height:290px;
 	width: 500px;
 	color:grey;
 	background-color: purple;
-	position: relative;
+	position: absolute;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
 	text-align: center;
 	left: 485px;
 	top:150px;
